@@ -4,10 +4,10 @@ Track every internship application from **wishlist → applied → OA → interv
 Kanban board, a virtualized table and an analytics dashboard. Built because I was managing 100+
 applications in a spreadsheet and kept missing follow-ups.
 
-> **Try it in 10 seconds:** `npm install && npm run dev`, then click **Explore with sample data**.
-> No account needed. Demo mode stores data in your browser.
+**Live demo: [job-search-tracker-jade.vercel.app](https://job-search-tracker-jade.vercel.app)**. Click
+**Explore with sample data**. No account needed; demo mode stores data in your browser.
 
-<!-- Add after deploying: live demo link · 90-second Loom walkthrough · screenshot/GIF of the board -->
+<!-- TODO: 90-second Loom walkthrough · screenshot/GIF of the board -->
 
 ## Features
 
